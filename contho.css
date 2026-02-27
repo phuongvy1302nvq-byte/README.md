@@ -11,10 +11,10 @@
 flex:5%;
   background-color:lightpink;
   color: white;
-  đisplay: flex;
+  display: flex;
 }
 .menu hover{
-  background-color:darkpink
+  background-color:darkpink;
   color:gray;
 }
 .menu a{
