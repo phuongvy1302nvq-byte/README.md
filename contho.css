@@ -13,10 +13,10 @@
 .menu {
 flex:5%;
   background-color: #DA70D6;
-  color: lightpink
+  color: lightpink;
   display: flex;
 }
-.menu :hover{
+.menu a:hover{
   background-color: #DDA0DD;
   color:gray;
 }
@@ -26,6 +26,7 @@ flex:5%;
 .content{
 flex:70%;
   background-color: #D8BFD8;
+}
 .content iframe{
   flex: 1;
   border:none;
