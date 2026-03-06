@@ -6,17 +6,17 @@
 .header{
   flex:15%;
   background-color: 00BFFF;
-  background: url("cuapvne.jpg") center/100%;
+  background: url("IMG_8099.png") center/100%;
   aspect-ratio: 6/1;
 }
 .menu{
 flex:5%;
-  background-color:0000CD;
+  background-color:DA70D6;
   color: white;
   display: flex;
 }
 .menu hover{
-  background-color:191970;
+  background-color:DDA0DD;
   color:gray;
 }
 .menu a{
@@ -24,7 +24,7 @@ flex:5%;
 }
 .content{
 flex:70%;
-  background-color:ADD8E6;
+  background-color:D8BFD8;
 .content iframe{
   flex:1;
   border:none;
@@ -33,7 +33,7 @@ flex:70%;
 }
 .footer{
 flex:10%;
-  background-color:87CEFA;
+  background-color:DB7093;
 }
 h1 {
   color: red;
