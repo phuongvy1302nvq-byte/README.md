@@ -40,16 +40,19 @@ h1 {
   color: red;
   text-align: center;
 }
+
 td {
   text-align: center;
 }
+
 .tieude {
-color: tomato;
-font-size: 25pt;
-  top-margin: 18pt;
+  color: tomato;
+  font-size: 25pt;
+  margin-top: 18pt;
 }
+
 .noidung {
-color: black; 
+  color: black; 
   font-size: 15pt; 
-  top-margin: 6pt;
+  margin-top: 6pt;
 }
